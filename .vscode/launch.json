@@ -9,7 +9,7 @@
             "type": "chrome",
             "request": "launch",
             "name": "Open InSync Games",
-            "file": "C:/Users/milen/Documents/GitDesktop/Repository_Desktop/Site/site01.html"
+            "file": ""
         }
     ]
 }
